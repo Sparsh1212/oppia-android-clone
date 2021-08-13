@@ -29,7 +29,7 @@ fun main(vararg args: String) {
 
   val failureCommentFilePath = args[2]
 
-  val permaLinkPrefix = "https://github.com/oppia/oppia-android/blob/"
+  val permaLinkPrefix = "https://github.com/Sparsh1212/oppia-android-clone/blob/"
 
   // Here, we are adding 40 to account for the commit SHA-1 hash length (for context:
   // https://en.wikipedia.org/wiki/SHA-1).

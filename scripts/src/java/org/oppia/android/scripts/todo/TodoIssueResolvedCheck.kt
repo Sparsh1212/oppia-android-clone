@@ -30,7 +30,7 @@ fun main(vararg args: String) {
 
   val commitSha = args[2]
 
-  val githubPermalinkUrl = "https://github.com/oppia/oppia-android/blob/$commitSha"
+  val githubPermalinkUrl = "https://github.com/Sparsh1212/oppia-android-clone/blob/$commitSha"
 
   val allTodos = TodoCollector.collectCorrectlyFormattedTodos(TodoCollector.collectTodos(repoPath))
 
