@@ -191,9 +191,6 @@ kt_jvm_binary(
 
 # TODO(#1): test description 3.
 
-# TODO(#2): test description 4.
-
-# TODO(#2): test description 5.
 
 kt_jvm_binary(
     name = "todo_issue_comment_check",

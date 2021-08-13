@@ -3,7 +3,6 @@ package org.oppia.android.scripts.todo
 import org.oppia.android.scripts.todo.model.Todo
 import java.io.File
 
-// TODO(#2): test description 2.
 
 /**
  * Script for ensuring that all TODOs of the closed issue are resolved.
