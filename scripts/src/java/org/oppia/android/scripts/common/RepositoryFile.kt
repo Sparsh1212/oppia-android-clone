@@ -13,6 +13,7 @@ class RepositoryFile() {
       ".aswb",
       "gradle",
       "bazel-bin",
+      // TODO(#2): test description 1.
       "bazel-oppia-android-clone",
       "bazel-out",
       "bazel-testlogs",
